@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Student at UCSB, aspiring developer at home</h3>
 
 <h3 align = "center"> 📄 I'm currently looking for work!</h3>
-<p align = "center">  Find my experiences [here](https://docs.google.com/document/d/101LGkyBud5JRyXwguIkdY0PPvMDmzJXsU7znGRTkEMk/edit?usp=sharing) </p>
+Find my experiences [here](https://docs.google.com/document/d/101LGkyBud5JRyXwguIkdY0PPvMDmzJXsU7znGRTkEMk/edit?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nich-axl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nich-axl" height="30" width="40" /></a>
