@@ -7,6 +7,8 @@
 <h4 align="left">Statistical Data Science</h2>
 <li><a href="https://drive.google.com/file/d/1xhbiUmrl7XApl2wiDrvckJcF7DOqaPuk/view?usp=sharing"> Introduction to Numpy </a></li>
 <li><a href="https://drive.google.com/file/d/1BS8qfGcUw_SlZB7fZQQwvnTJidOoA6qY/view?usp=sharing"> Data Manipulation with Pandas </a></li>
+<li><a href="https://drive.google.com/file/d/166GS2sqleqkeO9j_3IFJ8UgYeZTfltLN/view?usp=sharing"> Introduction to Data Visualization with
+Seaborn </a></li>
 <h4 align="left">Big Data Analytics</h2>
 <li><a href="https://drive.google.com/file/d/1gftkp5vIJZc2Jxkvt7B2CqM0GtZxEE03/view?usp=sharing"> Big Data Fundamentals with PySpark </a></li>
 <li><a href="https://drive.google.com/file/d/1PKV9TpomsvuLjDwQhIgXkGqLzqnBDkbF/view?usp=sharing"> Cleaning Data with PySpark </a></li>
