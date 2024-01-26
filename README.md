@@ -2,16 +2,14 @@
 <h3 align="center">Data Science Student at UCSB, aspiring developer at home</h3>
 
 <h3 align = "center"> 📄 I'm currently looking for work! Find my experiences <a href="https://docs.google.com/document/d/11O6zIYL8TrW97sdgqRj8zKrKEW1CMj1IhpC0PCn-Uqg/edit?usp=sharing">here</a></h3>
-</br>
+
 <h3 align="left">Datacamp Certifications:</h3>
 <h4 align="left">Statistical Data Science</h2>
 <li><a href="https://drive.google.com/file/d/1xhbiUmrl7XApl2wiDrvckJcF7DOqaPuk/view?usp=sharing"> Introduction to Numpy </a></li>
 <li><a href="https://drive.google.com/file/d/1BS8qfGcUw_SlZB7fZQQwvnTJidOoA6qY/view?usp=sharing"> Data Manipulation with Pandas </a></li>
-
 <h4 align="left">Big Data Analytics</h2>
 <li><a href="https://drive.google.com/file/d/1gftkp5vIJZc2Jxkvt7B2CqM0GtZxEE03/view?usp=sharing"> Big Data Fundamentals with PySpark </a></li>
 <li><a href="https://drive.google.com/file/d/1PKV9TpomsvuLjDwQhIgXkGqLzqnBDkbF/view?usp=sharing"> Cleaning Data with PySpark </a></li>
-
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
