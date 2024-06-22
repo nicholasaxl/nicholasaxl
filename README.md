@@ -12,6 +12,9 @@ Seaborn </a></li>
 <h4 align="left">Big Data Analytics</h2>
 <li><a href="https://drive.google.com/file/d/1gftkp5vIJZc2Jxkvt7B2CqM0GtZxEE03/view?usp=sharing"> Big Data Fundamentals with PySpark </a></li>
 <li><a href="https://drive.google.com/file/d/1PKV9TpomsvuLjDwQhIgXkGqLzqnBDkbF/view?usp=sharing"> Cleaning Data with PySpark </a></li>
+<li><a href="https://drive.google.com/file/d/1D8NHaChsTfVkm1H7Tgw7EJqZ2YMYBb-x/view?usp=sharing"> Machine Learning with PySpark </a></li>
+<li><a href="https://drive.google.com/file/d/1D8NHaChsTfVkm1H7Tgw7EJqZ2YMYBb-x/view?usp=sharing"> Feature Engineering with PySpark </a></li>
+<li><a href="https://drive.google.com/file/d/1xanXf9FtwE0nesEHVKH01SxzA5iSLREC/view?usp=sharing"> Introduction to Spark SQL in Python </a></li>
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
